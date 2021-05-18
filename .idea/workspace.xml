@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85b61f28-2fdc-42c9-858b-f9fe1f8fcd78" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bVx6G5qQg4qiko13eKMwMlNQoh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AssigCOMPLETE" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AVLTest">
+    <configuration name="AssignmentMarker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testing.AssignmentMarker" />
+      <module name="DS_2017_Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_2017_Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.AVLTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_2017_Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.BinaryTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrophyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_2017_Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.TrophyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS_2017_Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Testing" />
+      <option name="MAIN_CLASS_NAME" value="Testing.UserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLTest" />
+        <item itemvalue="JUnit.BinaryTreeTest" />
+        <item itemvalue="Application.AssignmentMarker" />
+        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="JUnit.TrophyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b61f28-2fdc-42c9-858b-f9fe1f8fcd78" name="Default Changelist" comment="" />
+      <created>1588730884346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588730884346</updated>
+      <workItem from="1588730886583" duration="2498000" />
+      <workItem from="1589421140082" duration="10000" />
+      <workItem from="1589808602570" duration="9949000" />
+      <workItem from="1589899396119" duration="9000" />
+      <workItem from="1589911010401" duration="5634000" />
+      <workItem from="1590033245506" duration="1630000" />
+      <workItem from="1590065568298" duration="517000" />
+      <workItem from="1590107387545" duration="2340000" />
+      <workItem from="1590110178946" duration="303000" />
+      <workItem from="1590117878277" duration="14929000" />
+      <workItem from="1590245965238" duration="29908000" />
+      <workItem from="1590432426438" duration="5000" />
+      <workItem from="1590506070219" duration="136000" />
+      <workItem from="1590816214027" duration="122000" />
+      <workItem from="1590901071084" duration="6000" />
+      <workItem from="1590981048662" duration="8817000" />
+      <workItem from="1591081244595" duration="6000" />
+      <workItem from="1591081503963" duration="8379000" />
+      <workItem from="1591094401512" duration="776000" />
+      <workItem from="1591098172001" duration="3138000" />
+      <workItem from="1591101405228" duration="6636000" />
+      <workItem from="1591190059865" duration="6000" />
+      <workItem from="1591457845278" duration="3351000" />
+      <workItem from="1591486559529" duration="1754000" />
+      <workItem from="1591565224139" duration="6000" />
+      <workItem from="1591646805199" duration="8000" />
+      <workItem from="1591743936152" duration="1048000" />
+      <workItem from="1591745095132" duration="769000" />
+      <workItem from="1591828770098" duration="218000" />
+      <workItem from="1591837567595" duration="199000" />
+      <workItem from="1591847112312" duration="6000" />
+      <workItem from="1592122533006" duration="33000" />
+      <workItem from="1592122721254" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this" />
+        <watch expression="this" language="JAVA" />
+        <watch expression="this" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
